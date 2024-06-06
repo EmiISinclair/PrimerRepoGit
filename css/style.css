@@ -1,0 +1,17 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 16px; /* 1rem = 10px el codigo de body, y html sirve para performance visual, para pantallas retina, smart, oled, etc*/
+}
+
+.titulo {
+    text-align: center;
+    font-size: 3.8rem;
+}
+
+.titulo span { /*siempre aplicar donde se esta el span que se quiere adjudicar*/
+    font-size: 2rem;
+}
+
